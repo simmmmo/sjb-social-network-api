@@ -2,7 +2,6 @@
 
 ## Description
 
-
 ## User Story
 
 ```md
@@ -19,6 +18,26 @@ SO THAT my website can handle large amounts of unstructured data
 
 ###### Local Installation
 
+- Clone the repository from [Github](git@github.com:simmmmo/sjb-social-network-api.git)
+- Ensure Node.js is installed
+- Ensure the Insomnia app is installed
+- Install dependencies
+  [express package](https://www.npmjs.com/package/express)
+
+```bash
+npm install
+```
+
+- Ensure all additional packages have been installed
+
+- Start the server
+
+```bash
+npm start
+```
+
+- Open Insomnia App to test API routes
+
 ## Usage
 
 ###### Production Environment (Heroku)
@@ -27,11 +46,19 @@ SO THAT my website can handle large amounts of unstructured data
 
 ## Technology
 
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- Moment
+
 ## Project Links
 
 ###### Repo name
 
+- sjb-social-network-api
+
 ###### GitHub enviroment
 
-
-
+- https://github.com/simmmmo/sjb-social-network-api
+- git@github.com:simmmmo/sjb-social-network-api.git
